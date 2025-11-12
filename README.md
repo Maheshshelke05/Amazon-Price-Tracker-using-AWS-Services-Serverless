@@ -197,7 +197,7 @@ Aur CloudWatch mein logs dekhein.
 - 📚 [Amazon SNS Guide](https://docs.aws.amazon.com/sns/)
 
 ---
-**✨ Your Amazon Price Tracker is Now Live! ✨**
+**✨ Your Amazon Price Tracker is Now Live!! ✨**
 
 
 
